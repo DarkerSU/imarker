@@ -3,7 +3,7 @@
 ## Base - 基本命令
 
 ```shell
- 查看所有分支
+# 查看所有分支
 git branch -a
 
 # 查看所有远程分支
@@ -14,6 +14,9 @@ git checkout <分支名>
 
 # 创建并切换此分支
 git checkout -b dev   
+
+# 创建分支并将此分支关联到对应的远程分支
+git checkout -b <本地分支名> origin/<远程分支名>
 
 # 创建分支
 git branch dev       
