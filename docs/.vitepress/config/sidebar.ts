@@ -27,5 +27,15 @@ export default {
                 { text: 'npm' }
             ]
         }
+    ],
+    '/marker/':<IItems[]>[
+        {
+            text:'Doc - 文档类',items:[
+                {text:'前端文档',link:'/marker/doc'}
+            ]
+        },
+        {
+            text:'Design - 设计类',link:''
+        }
     ]
 } as ISidebarProps

@@ -10,8 +10,10 @@ export default defineConfig({
         ['meta', { name: 'theme-color', content: '#646cff' }],
         ["meta", { name: 'referrer', content: 'no-referrer' }]
     ],
+    
     themeConfig: {
-        nav,
+        outline:[2,3],
+        nav,        
         sidebar,
         algolia
     }
