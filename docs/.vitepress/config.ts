@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
 import nav from './config/nav';
 import sidebar from './config/sidebar';
+import algolia from './config/algolia';
 export default defineConfig({
     base: '/iMarker/',
     title: 'IT-Marker',
@@ -12,11 +13,6 @@ export default defineConfig({
     themeConfig: {
         nav,
         sidebar,
-        algolia: {
-            appId: 'TT98URW4E7',
-            apiKey: '95ddb6f2e6f911858408217b80c13d9b',
-            indexName: 'iMarker',
-            placeholder: '请输入关键词',
-        }
+        algolia
     }
 })

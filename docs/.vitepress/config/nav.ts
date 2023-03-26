@@ -1,6 +1,6 @@
 export default [
-    { text: '指南', link: '/guide/', activeMatch: '^/guide/' },
     { text: 'Env', link: '/environment/',activeMatch: '^/environment/' },
-    { text: '快捷工具', link: '/tools/', activeMatch: '^/tools/' },
-    { text: '关于我们', link: '/about/', activeMatch: '^/about/' }
+    { text: 'Server', link: '/tools/', activeMatch: '^/tools/' },
+    { text: '前端市场', link: '/about/', activeMatch: '^/about/' },
+    { text: '快捷导航', link: '/guide/', activeMatch: '^/guide/' },
 ]
