@@ -72,7 +72,7 @@
    - 个人示例Demo1：[Echarts社区](https://www.makeapie.cn/echarts)
    - 个人示例Demo2：[ISQQW Echart](https://www.isqqw.com/) 
 
-更多示例Demo可参考“[**全网echarts案例资源大总结和echarts的高效使用技巧（细节版）**](https://juejin.cn/post/7078834647005822983)”这篇文章
+更多示例Demo参考文章“[**全网echarts案例资源大总结和echarts的高效使用技巧（细节版）**](https://juejin.cn/post/7078834647005822983)”
 ### D3.js
 官网：[https://d3js.org/](https://d3js.org/)
 
@@ -80,10 +80,10 @@
 
 ## 其他
 ### Pinia
-- 官网：[https://pinia.vuejs.org/](https://pinia.vuejs.org/zh/)
+官网地址：[https://pinia.vuejs.org/](https://pinia.vuejs.org/zh/)
 
 ### VueX
-- 官网：[https://vuex.vuejs.org/zh/](https://vuex.vuejs.org/zh/)
+官网地址：[https://vuex.vuejs.org/zh/](https://vuex.vuejs.org/zh/)
 ### Vuepress
   VuePress文档：[https://vuepress.vuejs.org/](https://vuepress.vuejs.org/)
 ### Vitepress
@@ -91,3 +91,6 @@
 - Vitepress中文文档（个人翻译）：[码农叉叉歪](https://xxy5.com/vitepress-cn/)
 ### Electron
 - 文档中心：[https://www.electronjs.org/](https://www.electronjs.org/)
+### Three.js
+官网文档：[https://threejs.org/](https://threejs.org/)
+中文网站：[http://www.webgl3d.cn/](http://www.webgl3d.cn/)

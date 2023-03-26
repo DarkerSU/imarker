@@ -24,7 +24,7 @@ export default {
             items: [
                 { text: 'NVM 版本管理',link:'/environment/Node/nvm' },
                 { text: 'nrm' },
-                { text: 'npm' }
+                { text: 'npm 相关',link:'/environment/Node/npm' }
             ]
         }
     ],
