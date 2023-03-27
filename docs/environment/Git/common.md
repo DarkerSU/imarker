@@ -83,7 +83,7 @@ git pull origin main
 ## Stash - 暂存区
 
 ```bash
- 代码放到暂存区(未 commit 的代码)，适用于当需要切换分支，但又不想 push 的时候
+# 代码放到暂存区(未 commit 的代码)，适用于当需要切换分支，但又不想 push 的时候
 git stash
 
 # 还原 stash
@@ -128,7 +128,7 @@ git remote rename <old_name> <new_name>
 ## Rm - 删除文件
 
 ```bash
-除存储在本地仓库的文件
+# 除存储在本地仓库的文件
 git rm <file name>  
 
 # 强制删除
@@ -247,7 +247,7 @@ git log --graph
 ## Tag - 标签
 
 ```bash
- 创建本地 tag   
+# 创建本地 tag   
 git tag <tagName> 
 
 # 把本地 tag 推送到远程仓库

@@ -9,7 +9,7 @@ hero:
   text: 技术永不褪色
   tagline: 挖掘资源，深耕技术，输出成果。
   image:
-    src: /logo-with-shadow.png
+    src: /logo.svg
     alt: Skytech Design
   actions:
     - theme: brand
