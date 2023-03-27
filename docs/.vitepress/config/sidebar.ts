@@ -22,9 +22,9 @@ export default {
         {
             text: 'Node 环境',
             items: [
-                { text: 'NVM 版本管理',link:'/environment/Node/nvm' },
-                { text: 'nrm' },
-                { text: 'npm 相关',link:'/environment/Node/npm' }
+                { text: 'nvm - node版本管理',link:'/environment/Node/nvm' },
+                { text: 'npm',link:'/environment/Node/npm' },
+                { text: 'nrm - npm镜像源管理' },
             ]
         }
     ],
