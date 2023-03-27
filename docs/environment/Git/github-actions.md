@@ -57,16 +57,20 @@ jobs:
 4. 上面文件中有部分信息属于敏感信息，所以这里使用 GitHub 的secret来定义全局变量，保障信息的安全。
 >仓库 -> Settings -> Secrets -> Actions -> New repository -> secret
 <img src="/images/github-actions-secret.png">
-![github](https://xxy5.com/images/git/github-actions-secret.png)
+<!-- ![](./images/github-actions-secret.jpg)
+ -->
+<!-- ![github](https://xxy5.com/images/git/github-actions-secret.png) -->
 
 定义好的全局变量：
-<img src="/images/github-repository-secret.png">
+<!-- ![](./images/github-repository-secret.jpg) -->
+<img src="/images/github-repository-secrets.png">
 <img src="https://xxy5.com/images/git/github-repository-secrets.png">
 https://xxy5.com/images/git/github-repository-secrets.png
 ![github](https://xxy5.com/images/git/github-repository-secrets.png)
 
 如果使用SSH_KEY登录，则需要在服务器上生成，下面给出在“宝塔面板”中的生成方法：
 <img src="/images/SSH_KEY.png">
+<!-- ![](./images/SSH_KEY.jpg) -->
 ![ssh](https://xxy5.com/images/git/SSH_KEY.png)
 
 到这里就完成了整个部署过程了，接下了就可以通过git push来实现自动化部署了。

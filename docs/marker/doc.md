@@ -33,6 +33,7 @@
   - 中文文档：[https://www.nuxtjs.cn/](https://www.nuxtjs.cn/)
 - Nuxt3：
   - 官网：[https://nuxt.com/blog/v3](https://nuxt.com/blog/v3)
+  - 中文文档：[https://www.nuxt.com.cn/](https://www.nuxt.com.cn/)
   - 中文文档（个人翻译）：[码农叉叉歪](https://xxy5.com/nuxt3/introduction-install.html)
 ### Next
 - 英文官网：[https://nextjs.org/](https://nextjs.org/)
