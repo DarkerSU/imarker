@@ -6,7 +6,7 @@
 进入仓库后选择 `actions`创建一个 `.yml`文件。默认点击 `actions`后会自动生成一个名为 `main.yml`文件，文件名可以自定义。
 ![github](https://note.youdao.com/yws/res/3955/WEBRESOURCEbfa28a1d345aec3d690bfec9f5901204)
 <img src="https://note.youdao.com/yws/res/3955/WEBRESOURCEbfa28a1d345aec3d690bfec9f5901204" title="youdao">
-<img src="/public/images/github-actions.png">
+<img src="/images/github-actions.png">
 
 
 1. 填写 `main.yml`内容
