@@ -18,7 +18,15 @@
 # edunpm 
  http://registry.enpmjs.org/
 ```
-
+:::tip
+原淘宝npm域名即将停止解析，请切换至新域名
+`http://npm.taobao.org`和 `http://registry.npm.taobao.org` 将在 2022.06.30 号正式下线和停止 DNS 解析。
+新域名为 `npmmirror.com`, 相关服务域名切换规则请参考：
+```shell
+http://npm.taobao.org => http://npmmirror.com
+http://registry.npm.taobao.org => http://registry.npmmirror.com
+```
+:::
 ## 镜像
 
 ```shell
