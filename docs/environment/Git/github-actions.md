@@ -4,10 +4,12 @@
 2. 生成 Actions 部署文件
 
 进入仓库后选择 `actions`创建一个 `.yml`文件。默认点击 `actions`后会自动生成一个名为 `main.yml`文件，文件名可以自定义。
-
 ![github](https://note.youdao.com/yws/res/3955/WEBRESOURCEbfa28a1d345aec3d690bfec9f5901204)
+<img src="https://note.youdao.com/yws/res/3955/WEBRESOURCEbfa28a1d345aec3d690bfec9f5901204" title="youdao">
+<img src="/public/images/github-actions.png">
 
-3. 填写 `main.yml`内容
+
+1. 填写 `main.yml`内容
 ```shell
 name: Deploy
 
@@ -54,15 +56,17 @@ jobs:
 ```
 4. 上面文件中有部分信息属于敏感信息，所以这里使用 GitHub 的secret来定义全局变量，保障信息的安全。
 >仓库 -> Settings -> Secrets -> Actions -> New repository -> secret
-
+<img src="/images/github-actions-secret.png">
 ![github](https://xxy5.com/images/git/github-actions-secret.png)
 
 定义好的全局变量：
-
+<img src="/images/github-repository-secret.png">
+<img src="https://xxy5.com/images/git/github-repository-secrets.png">
+https://xxy5.com/images/git/github-repository-secrets.png
 ![github](https://xxy5.com/images/git/github-repository-secrets.png)
 
 如果使用SSH_KEY登录，则需要在服务器上生成，下面给出在“宝塔面板”中的生成方法：
-
+<img src="/images/SSH_KEY.png">
 ![ssh](https://xxy5.com/images/git/SSH_KEY.png)
 
 到这里就完成了整个部署过程了，接下了就可以通过git push来实现自动化部署了。

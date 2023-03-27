@@ -1,4 +1,12 @@
 # 文档市场
+收录前端各类常用文档及对应中文文档地址，方便开发过程中权威资料查询
+## Basic - 前端基础
+### MDN
+官网：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+### TypeScript
+官网：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+
+中文网站：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
 
 ## 构建工具
 ### Webpack
@@ -9,15 +17,6 @@
 ### Vite
   - 英文文档：[https://vitejs.dev/](https://vitejs.dev/)
   - 中文文档：[https://cn.vitejs.dev/](https://cn.vitejs.dev/)
-
-## MVVM
-### Vue
-- Vue2 官网：[https://v2.cn.vuejs.org/](https://v2.cn.vuejs.org/)
-- Vue3 官网：[https://cn.vuejs.org/](https://cn.vuejs.org/)
-
-### React
-- React官网：[https://react.dev/](https://react.dev/)
-- 中文网站：[https://react.docschina.org/](https://react.docschina.org/)
 
 ## 小程序
 - 微信：[https://developers.weixin.qq.com/miniprogram](https://developers.weixin.qq.com/miniprogram/dev/framework/)
