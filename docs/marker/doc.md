@@ -29,10 +29,11 @@
 
 ## SSR
 ### Nuxt
-- Nuxt2：[https://nuxtjs.org/](https://nuxtjs.org/)
+- Nuxt2
+  - 官网：[https://nuxtjs.org/](https://nuxtjs.org/)
+  - 中文文档：[https://www.nuxtjs.cn/](https://www.nuxtjs.cn/)
 - Nuxt3：
   - 官网：[https://nuxt.com/blog/v3](https://nuxt.com/blog/v3)
-  - 中文文档：[https://www.nuxtjs.cn/](https://www.nuxtjs.cn/)
   - 中文文档（个人翻译）：[码农叉叉歪](https://xxy5.com/nuxt3/introduction-install.html)
 ### Next
 - 英文官网：[https://nextjs.org/](https://nextjs.org/)
@@ -92,5 +93,6 @@
 ### Electron
 - 文档中心：[https://www.electronjs.org/](https://www.electronjs.org/)
 ### Three.js
-官网文档：[https://threejs.org/](https://threejs.org/)
+官网文档：[https://threejs.org/](https://threejs.org/) 
+
 中文网站：[http://www.webgl3d.cn/](http://www.webgl3d.cn/)
