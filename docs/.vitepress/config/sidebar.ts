@@ -31,7 +31,8 @@ export default {
     '/marker/':<IItems[]>[
         {
             text:'Doc - 文档类',items:[
-                {text:'前端文档',link:'/marker/doc'}
+                {text:'开发者文档',link:'/marker/doc'},
+                {text:'快捷工具',link:'/marker/doc'}
             ]
         },
         {
