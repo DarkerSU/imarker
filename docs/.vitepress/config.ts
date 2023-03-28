@@ -3,7 +3,7 @@ import nav from './config/nav';
 import sidebar from './config/sidebar';
 import algolia from './config/algolia';
 export default defineConfig({
-    base: '/iMarker/',
+    base: '/',
     title: 'IT-Marker',
     description: '技术永不褪色',
     head: [
