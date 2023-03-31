@@ -38,5 +38,29 @@ export default {
         {
             text:'Design - 设计类',link:''
         }
+    ],
+    '/memo/':<IItems[]>[
+        {
+            text:'TypeScript',items:[
+                {text:'基础',link:'/memo/typescript/index'}
+            ]
+        },
+        {
+            text:'Axios',items:[
+                {text:'axios封装',link:'/memo/axios/axios封装'}
+            ]
+        },
+        {
+            text:'Nuxt',items:[
+                {text:'Api',link:'/memo/nuxt/api'},
+                {text:'Config',link:'/memo/nuxt/config'},
+            ]
+        },
+        {
+            text:'微前端',items:[
+                {text:'介绍',link:'/memo/mecroweb/base'},
+                {text:'微前端方案',link:'/memo/mecroweb/example'},
+            ]
+        }
     ]
 } as ISidebarProps
