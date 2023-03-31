@@ -42,7 +42,7 @@ export default {
     '/memo/': <IItems[]>[
         {
             text: 'TypeScript', items: [
-                { text: '基础', link: '/memo/typescript/index' }
+                { text: 'type和interface', link: '/memo/typescript/type和interface' }
             ]
         },
         {

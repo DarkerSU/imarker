@@ -1,7 +1,7 @@
 # type 和 interface
 
-## type和interface的区别
-type和interface都可以用来表示接口，但实际用的时候会有写差异。
+## 区别
+ `type` 和 `interface` 都可以用来表示接口，但实际用的时候会有写差异。
 ### 相同点
 - 都可以用于定义对象和函数的形状
 ```ts
@@ -77,3 +77,16 @@ const aObj: A = {
     age: 233 // 必须
 };
 ```
+
+## 使用场景
+
+**type 使用场景**
+- 定义**基本类型**的别名，如 `type myString = string`
+- 通过 **`typeof`** 操作符来定义，如 `type myType = typeof someObj`
+- 申明**联合类型**，如 `type unionType = myType1 | myType2`
+- 申明**元组类型**，如 `type yuanzu = [myType1, myType2]`
+
+**interface 使用场景**
+- 需要 `interface` 重名会自动合并属性扩展的
+- 定义对象**数据结构**(不使用type时)
+
