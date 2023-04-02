@@ -32,35 +32,60 @@ export default {
         {
             text: 'Doc - 文档类', items: [
                 { text: '开发者文档', link: '/marker/doc' },
-                { text: '快捷工具', link: '/marker/doc' }
+                // { text: '快捷工具', link: '/marker/doc' }
             ]
         },
         {
             text: 'Design - 设计类', link: ''
         }
     ],
-    '/memo/': <IItems[]>[
+    '/memo/nuxt/': <IItems[]>[
         {
-            text: 'TypeScript', items: [
-                { text: 'type和interface', link: '/memo/typescript/type和interface' }
+            text: '基础', items: [
+                { text: 'Api', link: '/memo/nuxt/api' },
+                { text: 'Config', link: '/memo/nuxt/config' },
             ]
         },
+    ],
+    '/memo/other/': <IItems[]>[
         {
             text: 'Axios', items: [
                 { text: 'axios封装', link: '/memo/axios/axios封装' }
             ]
         },
+    ],
+    '/memo/typescript/': <IItems[]>[
         {
-            text: 'Nuxt', items: [
-                { text: 'Api', link: '/memo/nuxt/api' },
-                { text: 'Config', link: '/memo/nuxt/config' },
+            text: '基础', items: [
+                { text: 'type和interface', link: '/memo/typescript/type和interface' }
             ]
         },
         {
-            text: '微前端', items: [
-                { text: '介绍', link: '/memo/microweb/base' },
-                { text: '微前端方案', link: '/memo/microweb/example' },
+            text: '高阶', items: [
+                { text: '高阶用法', link: '/memo/typescript/高阶' }
             ]
-        }
+        },
+    ],
+    '/memo/microfront/': <IItems[]>[
+        {
+            text: '基础', items: [
+                { text: '介绍', link: '/memo/microfront/base' }
+            ]
+        },
+        {
+            text: 'qiankun - 阿里', items: [
+                { text: '使用', link: '/memo/microfront/qiankun/use' },
+            ]
+        },
+        {
+            text: 'wujie - 腾讯', items: [
+                { text: '使用', link: '/memo/microfront/wujie/use' },
+            ]
+        },
+        {
+            text: 'microapp - 京东', items: [
+                { text: '使用', link: '/memo/microfront/microapp/use' },
+            ]
+        },
     ]
 } as ISidebarProps
