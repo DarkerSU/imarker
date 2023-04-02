@@ -229,4 +229,5 @@ export async function mount(props: any) {
 }
 ......
 ```
-
+## 其他文章参考
+[微前端qiankun（vue）使用教程](https://juejin.cn/post/7007714510186217508)

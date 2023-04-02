@@ -75,6 +75,7 @@ export default {
         {
             text: 'qiankun - 阿里', items: [
                 { text: '使用', link: '/memo/microfront/qiankun/use' },
+                { text: '踩坑', link: '/memo/microfront/qiankun/solution' },
             ]
         },
         {
