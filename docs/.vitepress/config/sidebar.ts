@@ -58,7 +58,7 @@ export default {
         {
             text: '基础', items: [
                 { text: 'type和interface', link: '/memo/typescript/type和interface' },
-                { text: 'tsconfig.json详解', link: '/memo/typescript/tsconfig.json' }
+                { text: 'tsconfig.json详解', link: '/memo/typescript/tsconfig配置文件' }
             ]
         },
         {
