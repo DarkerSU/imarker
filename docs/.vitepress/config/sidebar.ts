@@ -47,13 +47,7 @@ export default {
             ]
         },
     ],
-    '/memo/other/': <IItems[]>[
-        {
-            text: 'Axios', items: [
-                { text: 'axios封装', link: '/memo/axios/axios封装' }
-            ]
-        },
-    ],
+   
     '/memo/typescript/': <IItems[]>[
         {
             text: '基础', items: [
@@ -89,5 +83,19 @@ export default {
                 { text: '使用', link: '/memo/microfront/microapp/use' },
             ]
         },
-    ]
+    ],
+    '/memo/other/': <IItems[]>[
+        {
+            text: 'Axios', items: [
+                { text: 'axios封装', link: '/memo/other/axios/axios封装' }
+            ]
+        },
+        {
+            text: 'Algolia', items: [
+                { text: 'vitepress 接入algolia', link: '/memo/other/algolia/vitepress-algolia' },
+                { text: 'vitepress 无法搜索（解决）', link: '/memo/other/algolia/algolia-solution' },
+                {text:'VitePress 添加本地搜索功能',link:'/memo/other/algolia/local-search'}
+            ]
+        },
+    ],
 } as ISidebarProps
