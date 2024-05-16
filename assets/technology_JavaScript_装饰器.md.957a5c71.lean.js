@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.466b0381.js";const i=JSON.parse('{"title":"装饰器","description":"","frontmatter":{},"headers":[],"relativePath":"technology/JavaScript/装饰器.md"}'),p={name:"technology/JavaScript/装饰器.md"},o=l("",19),e=[o];function t(c,r,y,D,F,C){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};
