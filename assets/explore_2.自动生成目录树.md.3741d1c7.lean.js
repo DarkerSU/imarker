@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.cd9250a1.js";const A=JSON.parse('{"title":"探索1：directory-tree 自动目录树","description":"","frontmatter":{},"headers":[],"relativePath":"explore/2.自动生成目录树.md"}'),p={name:"explore/2.自动生成目录树.md"},o=l("",25),e=[o];function t(c,r,F,y,D,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

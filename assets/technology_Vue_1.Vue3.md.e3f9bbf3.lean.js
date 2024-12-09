@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.cd9250a1.js";const i=JSON.parse('{"title":"Vue3","description":"","frontmatter":{},"headers":[],"relativePath":"technology/Vue/1.Vue3.md"}'),p={name:"technology/Vue/1.Vue3.md"},o=l("",11),e=[o];function t(c,r,y,D,F,A){return n(),a("div",null,e)}const f=s(p,[["render",t]]);export{i as __pageData,f as default};
