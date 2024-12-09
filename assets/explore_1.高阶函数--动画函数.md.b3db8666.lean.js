@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,N as l}from"./chunks/framework.cd9250a1.js";const C=JSON.parse('{"title":"高阶函数--封装动画函数","description":"","frontmatter":{},"headers":[],"relativePath":"explore/1.高阶函数--动画函数.md"}'),o={name:"explore/1.高阶函数--动画函数.md"},p=l("",5),t=[p];function e(c,r,y,F,i,D){return a(),n("div",null,t)}const f=s(o,[["render",e]]);export{C as __pageData,f as default};

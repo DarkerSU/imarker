@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,N as e}from"./chunks/framework.28867cbe.js";const m=JSON.parse('{"title":"冒泡排序","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/排序/1、冒泡排序.md"}'),t={name:"algorithm/排序/1、冒泡排序.md"},o=e("",5),l=[o];function r(c,p,i,_,d,h){return n(),s("div",null,l)}const b=a(t,[["render",r]]);export{m as __pageData,b as default};
