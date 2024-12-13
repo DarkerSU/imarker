@@ -1,1 +1,0 @@
-import{_ as i,c as l,o as e,N as t}from"./chunks/framework.28867cbe.js";const g=JSON.parse('{"title":"微前端","description":"","frontmatter":{},"headers":[],"relativePath":"technology/Microfront/A-简介.md"}'),r={name:"technology/Microfront/A-简介.md"},a=t("",30),o=[a];function n(s,p,c,u,h,d){return e(),l("div",null,o)}const _=i(r,[["render",n]]);export{g as __pageData,_ as default};

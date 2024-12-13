@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,N as a}from"./chunks/framework.28867cbe.js";const _=JSON.parse('{"title":"文档快链","description":"","frontmatter":{},"headers":[],"relativePath":"guide/文档快链.md"}'),n={name:"guide/文档快链.md"},o=a("",3),h=[o];function l(s,f,p,d,c,i){return t(),r("div",null,h)}const b=e(n,[["render",l]]);export{_ as __pageData,b as default};

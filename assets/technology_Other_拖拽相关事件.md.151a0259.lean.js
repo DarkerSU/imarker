@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,N as l}from"./chunks/framework.28867cbe.js";const i=JSON.parse('{"title":"拖拽相关事件详解","description":"","frontmatter":{},"headers":[],"relativePath":"technology/Other/拖拽相关事件.md"}'),p={name:"technology/Other/拖拽相关事件.md"},o=l("",8),t=[o];function e(c,r,D,F,y,C){return a(),n("div",null,t)}const d=s(p,[["render",e]]);export{i as __pageData,d as default};
